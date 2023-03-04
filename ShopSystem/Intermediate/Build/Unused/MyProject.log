@@ -2,11 +2,11 @@
   Building MyProjectEditor...
   Using Visual Studio 2019 14.29.30143 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
   Building 4 actions with 12 processes...
-    [1/4] SplineController.cpp
-    [2/4] UE4Editor-MyProject-0004.lib
-       Creating library C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0004.lib and object C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0004.exp
-    [3/4] UE4Editor-MyProject-0004.dll
-       Creating library C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0004.suppressed.lib and object C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0004.suppressed.exp
+    [1/4] PushWall.cpp
+    [2/4] UE4Editor-MyProject-0002.lib
+       Creating library C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0002.lib and object C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0002.exp
+    [3/4] UE4Editor-MyProject-0002.dll
+       Creating library C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0002.suppressed.lib and object C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0002.suppressed.exp
     [4/4] MyProjectEditor.target
-  Total time in Parallel executor: 14.54 seconds
-  Total execution time: 16.06 seconds
+  Total time in Parallel executor: 9.94 seconds
+  Total execution time: 11.90 seconds

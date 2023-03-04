@@ -144,5 +144,16 @@ public:
 	/** Returns FirstPersonCameraComponent subobject **/
 	UCameraComponent* GetFirstPersonCameraComponent() const { return FirstPersonCameraComponent; }
 
+	bool GetCanBeDamaged();
+
+	void SetCanBeDamaged(bool set_damagable);
+
+
+	/*UFUNCTION()
+		void OnOverlapBegin(UPrimitiveComponent* overlapped, AActor* actor,
+			UPrimitiveComponent* other_comp, int32 other_index, bool sweep_result, const FHitResult& hit);*/
+
+	private:
+		bool can_be_damaged = true;
 };
 

@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\MyProject.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{195CEAFF-A6DE-4CD6-8974-772867CC47F6}</UniqueIdentifier>
+      <UniqueIdentifier>{864381C8-5A9E-45BB-B506-2CAA9BD92DE7}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\MyProject.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{2982E3E2-D120-47C3-AED9-C9E2AC159719}</UniqueIdentifier>
+      <UniqueIdentifier>{ED366FB1-EA86-4601-A106-497F58DF61CC}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,8 +30,14 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\MyProject">
-      <UniqueIdentifier>{05CA4141-E74A-4A4B-BF26-586E9005A646}</UniqueIdentifier>
+      <UniqueIdentifier>{C49CD47F-70F6-4058-9CF4-D7FBE2DA5775}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\MyProject\EndBlock.cpp">
+      <Filter>Source\MyProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject\EndBlock.h">
+      <Filter>Source\MyProject</Filter>
+    </ClInclude>
     <None Include="..\..\Source\MyProject\MyProject.Build.cs">
       <Filter>Source\MyProject</Filter>
     </None>

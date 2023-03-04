@@ -298,3 +298,14 @@ bool AMyProjectCharacter::EnableTouchscreenMovement(class UInputComponent* Playe
 	
 	return false;
 }
+
+bool AMyProjectCharacter::GetCanBeDamaged()
+{
+	return can_be_damaged;
+}
+
+void AMyProjectCharacter::SetCanBeDamaged(bool set_damagable)
+{
+	can_be_damaged = set_damagable;
+}
+

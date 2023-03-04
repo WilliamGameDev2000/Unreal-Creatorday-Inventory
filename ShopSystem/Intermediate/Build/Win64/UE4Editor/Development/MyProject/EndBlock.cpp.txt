@@ -1,0 +1,3 @@
+C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Source\MyProject\EndBlock.h
+C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\EndBlock.generated.h
