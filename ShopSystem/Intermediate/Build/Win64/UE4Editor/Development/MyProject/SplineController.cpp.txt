@@ -1,3 +1,5 @@
 C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
 C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Source\MyProject\SplineController.h
 C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\SplineController.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SplineComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SplineComponent.generated.h

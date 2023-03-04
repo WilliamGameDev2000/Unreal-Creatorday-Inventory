@@ -14,8 +14,18 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define MYPROJECT_SplineController_generated_h
 
 #define ShopSystem_Source_MyProject_SplineController_h_12_SPARSE_DATA
-#define ShopSystem_Source_MyProject_SplineController_h_12_RPC_WRAPPERS
-#define ShopSystem_Source_MyProject_SplineController_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define ShopSystem_Source_MyProject_SplineController_h_12_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execCloseDoor); \
+	DECLARE_FUNCTION(execOpenDoor);
+
+
+#define ShopSystem_Source_MyProject_SplineController_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execCloseDoor); \
+	DECLARE_FUNCTION(execOpenDoor);
+
+
 #define ShopSystem_Source_MyProject_SplineController_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesASplineController(); \
@@ -58,7 +68,13 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(ASplineController)
 
 
-#define ShopSystem_Source_MyProject_SplineController_h_12_PRIVATE_PROPERTY_OFFSET
+#define ShopSystem_Source_MyProject_SplineController_h_12_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__Root() { return STRUCT_OFFSET(ASplineController, Root); } \
+	FORCEINLINE static uint32 __PPO__Spline() { return STRUCT_OFFSET(ASplineController, Spline); } \
+	FORCEINLINE static uint32 __PPO__MoveActorClass() { return STRUCT_OFFSET(ASplineController, MoveActorClass); } \
+	FORCEINLINE static uint32 __PPO__TotalPathTimeController() { return STRUCT_OFFSET(ASplineController, TotalPathTimeController); }
+
+
 #define ShopSystem_Source_MyProject_SplineController_h_9_PROLOG
 #define ShopSystem_Source_MyProject_SplineController_h_12_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
