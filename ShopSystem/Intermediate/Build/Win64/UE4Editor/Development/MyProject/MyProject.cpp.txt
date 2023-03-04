@@ -1,0 +1,2 @@
+C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Source\MyProject\MyProject.h

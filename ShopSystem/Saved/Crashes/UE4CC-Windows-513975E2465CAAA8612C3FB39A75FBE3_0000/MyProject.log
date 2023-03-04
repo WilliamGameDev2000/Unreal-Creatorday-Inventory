@@ -1,0 +1,1389 @@
+﻿Log file open, 03/04/23 09:31:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.329317
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 4600H with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.03.04-09.31.01:452][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.03.04-09.31.01:452][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.03.04-09.31.01:452][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Config/Windows/Engine.ini]
+[2023.03.04-09.31.01:452][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.03.04-09.31.01:452][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Config/Windows/Engine.ini]
+[2023.03.04-09.31.01:452][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Config/Windows/Engine.ini]
+[2023.03.04-09.31.01:452][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.03.04-09.31.01:452][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.03.04-09.31.01:452][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.03.04-09.31.01:452][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.03.04-09.31.01:452][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.03.04-09.31.01:452][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.03.04-09.31.01:452][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.03.04-09.31.01:452][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.03.04-09.31.01:452][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.03.04-09.31.01:452][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.03.04-09.31.01:452][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.03.04-09.31.01:452][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.03.04-09.31.01:452][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.03.04-09.31.01:452][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.03.04-09.31.01:452][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Config/Windows/Engine.ini]
+[2023.03.04-09.31.01:452][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.03.04-09.31.01:452][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.03.04-09.31.01:452][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.03.04-09.31.01:452][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.03.04-09.31.01:452][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.03.04-09.31.01:452][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.03.04-09.31.01:452][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.03.04-09.31.01:452][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.03.04-09.31.01:452][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.03.04-09.31.01:452][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.03.04-09.31.01:452][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.03.04-09.31.01:452][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.03.04-09.31.01:452][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.03.04-09.31.01:452][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.03.04-09.31.01:452][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Config/Windows/Engine.ini]
+[2023.03.04-09.31.01:452][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Config/Windows/Engine.ini]
+[2023.03.04-09.31.01:466][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Config/Windows/Scalability.ini]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Config/Windows/Scalability.ini]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Config/Windows/Scalability.ini]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Config/Windows/Scalability.ini]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Config/Windows/Scalability.ini]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Config/Windows/Scalability.ini]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.03.04-09.31.01:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Config/Windows/Scalability.ini]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Config/Windows/Scalability.ini]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.03.04-09.31.01:467][  0]LogInit: Selected Device Profile: [Windows]
+[2023.03.04-09.31.01:467][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.03.04-09.31.01:467][  0]LogHAL: Display: Platform has ~ 8 GB [7966863360 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.03.04-09.31.01:467][  0]LogInit: Going up to parent DeviceProfile []
+[2023.03.04-09.31.01:467][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Config/Windows/Scalability.ini]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Config/Windows/Scalability.ini]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Config/Windows/Scalability.ini]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Config/Windows/Scalability.ini]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Config/Windows/Scalability.ini]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Config/Windows/Scalability.ini]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.03.04-09.31.01:467][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.03.04-09.31.01:468][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.03.04-09.31.01:468][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.03.04-09.31.01:468][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.03.04-09.31.01:468][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.03.04-09.31.01:468][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.03.04-09.31.01:468][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.03.04-09.31.01:468][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.03.04-09.31.01:468][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.03.04-09.31.01:468][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.03.04-09.31.01:468][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.03.04-09.31.01:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.03.04-09.31.01:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.03.04-09.31.01:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.03.04-09.31.01:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.03.04-09.31.01:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.03.04-09.31.01:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.03.04-09.31.01:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.03.04-09.31.01:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.03.04-09.31.01:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.03.04-09.31.01:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.03.04-09.31.01:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.03.04-09.31.01:468][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.03.04-09.31.01:468][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Config/Windows/Scalability.ini]
+[2023.03.04-09.31.01:468][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.03.04-09.31.01:468][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.03.04-09.31.01:468][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Config/Windows/Scalability.ini]
+[2023.03.04-09.31.01:468][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.03.04-09.31.01:468][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.03.04-09.31.01:468][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.03.04-09.31.01:468][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.03.04-09.31.01:469][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.03.04-09.31.01:469][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.03.04-09.31.01:469][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.03.04-09.31.01:469][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Config/Windows/Engine.ini]
+[2023.03.04-09.31.01:469][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Config/Windows/Editor.ini]
+[2023.03.04-09.31.01:469][  0]LogInit: Computer: WILLSPC
+[2023.03.04-09.31.01:469][  0]LogInit: User: William
+[2023.03.04-09.31.01:469][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.03.04-09.31.01:469][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.03.04-09.31.01:470][  0]LogMemory: Memory total: Physical=7.4GB (8GB approx)
+[2023.03.04-09.31.01:470][  0]LogMemory: Platform Memory Stats for Windows
+[2023.03.04-09.31.01:470][  0]LogMemory: Process Physical Memory: 145.55 MB used, 145.55 MB peak
+[2023.03.04-09.31.01:470][  0]LogMemory: Process Virtual Memory: 126.21 MB used, 126.21 MB peak
+[2023.03.04-09.31.01:470][  0]LogMemory: Physical Memory: 6644.93 MB used,  952.86 MB free, 7597.79 MB total
+[2023.03.04-09.31.01:470][  0]LogMemory: Virtual Memory: 134215224.00 MB used,  2505.96 MB free, 134217728.00 MB total
+[2023.03.04-09.31.01:484][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.03.04-09.31.01:576][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.03.04-09.31.01:578][  0]LogInit: Using OS detected language (en-GB).
+[2023.03.04-09.31.01:578][  0]LogInit: Using OS detected locale (en-GB).
+[2023.03.04-09.31.01:583][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2023.03.04-09.31.02:075][  0]LogInit: Setting process to per monitor DPI aware
+[2023.03.04-09.31.02:091][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.03.04-09.31.02:123][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.03.04-09.31.02:123][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.03.04-09.31.02:467][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.03.04-09.31.02:525][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.03.04-09.31.02:525][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.03.04-09.31.02:525][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.03.04-09.31.02:525][  0]LogD3D11RHI: D3D11 adapters:
+[2023.03.04-09.31.02:663][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 Ti' (Feature Level 11_0)
+[2023.03.04-09.31.02:663][  0]LogD3D11RHI:       5991/0/3798 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.03.04-09.31.02:703][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2023.03.04-09.31.02:703][  0]LogD3D11RHI:       496/0/3798 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2023.03.04-09.31.02:708][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.03.04-09.31.02:708][  0]LogD3D11RHI:       0/0/3798 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.03.04-09.31.02:708][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.03.04-09.31.02:708][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1660 Ti
+[2023.03.04-09.31.02:708][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.03.04-09.31.02:708][  0]LogD3D11RHI:     DeviceId    : 2191
+[2023.03.04-09.31.02:708][  0]LogD3D11RHI:     SubSysId    : 16cf1043
+[2023.03.04-09.31.02:708][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.03.04-09.31.02:708][  0]LogD3D11RHI:     DedicatedVideoMemory : 6282018816 bytes
+[2023.03.04-09.31.02:708][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.03.04-09.31.02:708][  0]LogD3D11RHI:     SharedSystemMemory : 3983431680 bytes
+[2023.03.04-09.31.02:708][  0]LogD3D11RHI:     AdapterLuid : 0 66256
+[2023.03.04-09.31.02:726][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.03.04-09.31.02:726][  0]LogD3D11RHI:     GPU DeviceId: 0x2191 (for the marketing name, search the web for "GPU Device Id")
+[2023.03.04-09.31.02:726][  0]LogWindows: EnumDisplayDevices:
+[2023.03.04-09.31.02:726][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2023.03.04-09.31.02:727][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:1)
+[2023.03.04-09.31.02:727][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2023.03.04-09.31.02:727][  0]LogWindows:    3. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2023.03.04-09.31.02:727][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2023.03.04-09.31.02:727][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2023.03.04-09.31.02:728][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2023.03.04-09.31.02:728][  0]LogWindows:    7. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2023.03.04-09.31.02:729][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.03.04-09.31.02:729][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti
+[2023.03.04-09.31.02:729][  0]LogD3D11RHI:   Driver Version: 516.40 (internal:31.0.15.1640, unified:516.40)
+[2023.03.04-09.31.02:729][  0]LogD3D11RHI:      Driver Date: 6-6-2022
+[2023.03.04-09.31.02:729][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2023.03.04-09.31.02:729][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.03.04-09.31.02:729][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1660 Ti
+[2023.03.04-09.31.02:729][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.03.04-09.31.02:729][  0]LogD3D11RHI:     DeviceId    : 2191
+[2023.03.04-09.31.02:729][  0]LogD3D11RHI:     SubSysId    : 16cf1043
+[2023.03.04-09.31.02:729][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.03.04-09.31.02:729][  0]LogD3D11RHI:     DedicatedVideoMemory : 6282018816 bytes
+[2023.03.04-09.31.02:729][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.03.04-09.31.02:729][  0]LogD3D11RHI:     SharedSystemMemory : 3983431680 bytes
+[2023.03.04-09.31.02:729][  0]LogD3D11RHI:     AdapterLuid : 0 66256
+[2023.03.04-09.31.02:844][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.03.04-09.31.02:844][  0]LogD3D11RHI: Async texture creation enabled
+[2023.03.04-09.31.02:844][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.03.04-09.31.02:869][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.03.04-09.31.02:910][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.03.04-09.31.03:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.03.04-09.31.03:453][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.03.04-09.31.03:453][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.03.04-09.31.03:453][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.03.04-09.31.03:453][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.03.04-09.31.03:453][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.03.04-09.31.03:453][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.03.04-09.31.03:453][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.03.04-09.31.03:453][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.03.04-09.31.03:453][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.03.04-09.31.03:453][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.03.04-09.31.03:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.03.04-09.31.03:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.03.04-09.31.03:509][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.03.04-09.31.03:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.03.04-09.31.03:523][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.03.04-09.31.03:530][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.03.04-09.31.03:550][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.03.04-09.31.03:558][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.03.04-09.31.03:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.03.04-09.31.03:607][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.03.04-09.31.03:607][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.03.04-09.31.03:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.03.04-09.31.03:634][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.03.04-09.31.03:641][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.03.04-09.31.03:653][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.03.04-09.31.03:667][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.03.04-09.31.03:667][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.03.04-09.31.03:690][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.03.04-09.31.03:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.03.04-09.31.03:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.03.04-09.31.03:713][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.03.04-09.31.03:713][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.03.04-09.31.03:731][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.03.04-09.31.03:791][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.03.04-09.31.03:847][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.03.04-09.31.03:847][  0]LogShaderCompilers: Guid format shader working directory is -40 characters bigger than the processId version (../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Intermediate/Shaders/WorkingDirectory/26280/).
+[2023.03.04-09.31.03:847][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/William/AppData/Local/Temp/UnrealShaderWorkingDir/688FE29C481C98612B6BAAB35B5C6E48/'.
+[2023.03.04-09.31.03:847][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.03.04-09.31.03:847][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.03.04-09.31.03:847][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.03.04-09.31.04:894][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.03.04-09.31.05:113][  0]LogDerivedDataCache: Loaded boot cache 0.22s 94MB C:/Users/William/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.03.04-09.31.05:114][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/William/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.03.04-09.31.05:115][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.03.04-09.31.05:115][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.03.04-09.31.05:116][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.04-09.31.05:116][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.03.04-09.31.05:152][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.03.04-09.31.05:152][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.04-09.31.05:152][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.03.04-09.31.05:208][  0]LogDerivedDataCache: Speed tests for C:/Users/William/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.06 seconds
+[2023.03.04-09.31.05:208][  0]LogDerivedDataCache: Display: Performance to C:/Users/William/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=46.58MBs, RandomWriteSpeed=26.68MBs. Assigned SpeedClass 'Local'
+[2023.03.04-09.31.05:211][  0]LogDerivedDataCache: Using Local data cache path C:/Users/William/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.03.04-09.31.05:211][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.03.04-09.31.05:212][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.03.04-09.31.05:294][  0]LogSlate: Using FreeType 2.10.0
+[2023.03.04-09.31.05:295][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.03.04-09.31.05:380][  0]LogAssetRegistry: FAssetRegistry took 0.0160 seconds to start up
+[2023.03.04-09.31.06:202][  0]LogInit: Selected Device Profile: [Windows]
+[2023.03.04-09.31.06:202][  0]LogInit: Active device profile: [0000023DF2D97F00][0000023DF2021580 49] Windows
+[2023.03.04-09.31.06:202][  0]LogInit: Profiles: [0000023DF2D97F00][0000023DF2021580 49] Windows, [0000023DF2DB7F00][0000023DEF905840 49] WindowsNoEditor, [0000023DF2D94200][0000023DEF909B00 49] WindowsServer, [0000023DF2DB5F00][0000023DE5404240 49] WindowsClient, [0000023DF2D96000][0000023DE5408500 49] IOS, [0000023DF2DB7700][0000023DE4E727C0 49] iPadAir, [0000023DF2D94800][0000023DF1FF0A80 49] iPadAir2, [0000023DF2D24900][0000023DE4E76F40 49] IPadPro, [0000023DF2D24A00][0000023DF2024F80 49] iPadAir3, [0000023DF2D94600][0000023DF1FFD240 49] iPadAir4, [0000023DF2D24700][0000023DF1FF9500 49] iPadMini2, [0000023DF2D94B00][0000023DEF8CD7C0 49] iPadMini3, [0000023DF2D25600][0000023DF3071A80 49] iPadMini4, [0000023DF2D96B00][0000023DF30801C0 49] iPadMini5, [0000023DF2DB6100][0000023DF3094700 49] iPhone6, [0000023DF2CEFF00][0000023DF3084740 49] iPodTouch6, [0000023DF2DB7C00][0000023DF30A6C80 49] iPhone7, [0000023DF2DB4600][0000023DF308CCC0 49] iPodTouch7, [0000023DF2CEC700][0000023DF1FF4F40 49] iPhone5S, [0000023DF2DB4C00][0000023DF30911C0 49] iPhone6Plus, [0000023DF2CEF400][0000023DF30A3480 49] iPhone6S, [0000023DF2DB6F00][0000023DF3405740 49] iPhone6SPlus, [0000023DF2CECF00][0000023DF341DA00 49] iPhone7Plus, [0000023DF2DB5B00][0000023DF3428140 49] iPhoneSE, [0000023DF2CEEC00][0000023DF342C400 49] iPhone8, [0000023DF2DB6800][0000023DF34306C0 49] iPhone8Plus, [0000023DF2CED600][0000023DF3434980 49] iPhoneX, [0000023DF2DB4800][0000023DF343CC40 49] iPhoneXS, [0000023DF2CEE500][0000023DF30DEF00 49] iPhoneXSMax, [0000023DF2DB7900][0000023DF3089180 49] iPhoneXR, [0000023DF2CEDD00][0000023DF30EB440 49] iPhone11, [0000023DF2DB6200][0000023DF30EF700 49] iPhone11Pro, [0000023DF2CEF500][0000023DF30F39C0 49] iPhone11ProMax, [0000023DF2DB5400][0000023DF30F6100 49] iPhoneSE2, [0000023DF2CECC00][0000023DF34383C0 49] iPhone12Mini, [0000023DF2DB7000][0000023DF30E2680 49] iPhone12, [0000023DF2CEEE00][0000023DF3998940 49] iPhone12Pro, [0000023DF2DB5C00][0000023DF368CC00 49] iPhone12ProMax, [0000023DF2CEE900][0000023DF3690EC0 49] iPadPro105, [0000023DF2DB4E00][0000023DF30E7140 49] iPadPro129, [0000023DF2CED800][0000023DF36953C0 49] iPadPro97, [0000023DF2DB7600][0000023DF3699680 49] iPadPro2_129, [0000023DF2CEF700][0000023DEF8C9940 49] iPad5, [0000023DF2DB5500][0000023DE4E89C00 49] iPad6, [0000023DF2CEEA00][0000023DF2028340 49] iPad7, [0000023DF2DB6E00][0000023DE53C2600 49] iPad8, [0000023DF2CEC500][0000023DE53C68C0 49] iPadPro11, [0000023DF2DB6A00][0000023DE53CAB80 49] iPadPro2_11, [0000023DF2CECE00][0000023DE53CEE40 49] iPadPro3_129, [0000023DF2DB6D00][0000023DE53D3100 49] iPadPro4_129, [0000023DF2CED700][0000023DF202D380 49] AppleTV, [0000023DF2DB5800][0000023DE53D7600 49] AppleTV4K, [0000023DF2CEE400][0000023DE53DF8C0 49] TVOS, [0000023DF2DB5D00][0000023DE53E3B80 49] Mac, [0000023DF2CEEB00][0000023DE53E62C0 49] MacClient, [0000023DF2DB6900][0000023DF369C580 49] MacNoEditor, [0000023DF2CEF900][0000023DF36A0840 49] MacServer, [0000023DF2DB6000][0000023DF36A4B00 49] Linux, [0000023DF2CEFB00][0000023DF36A8DC0 49] LinuxAArch64, [0000023DF2DB4A00][0000023DF36AD080 49] LinuxNoEditor, [0000023DF2CEFC00][0000023DF36B1340 49] LinuxAArch64NoEditor, [0000023DF2DB6C00][0000023DE53DB5C0 49] LinuxClient, [0000023DF2CEDE00][0000023DF36B5840 49] LinuxAArch64Client, [0000023DF2DB7D00][0000023DF36BDB00 49] LinuxServer, [0000023DF2CEF600][0000023DF36C0240 49] LinuxAArch64Server, [0000023DF2DB4900][0000023DF36C4500 49] Android, [0000023DF2CEDB00][0000023DF399C7C0 49] Android_Low, [0000023DF2F46900][0000023DF39A0A80 49] Android_Mid, [0000023DF2D96700][0000023DF39A4D40 49] Android_High, [0000023DF2F46B00][0000023DF39A9000 49] Android_Default, [0000023DF2D97000][0000023DF39AD2C0 49] Android_Adreno4xx, [0000023DF2F45400][0000023DF39B1580 49] Android_Adreno5xx_Low, [0000023DF2D96300][0000023DF36B9800 49] Android_Adreno5xx, [0000023DF2F45300][0000023DF39B5A80 49] Android_Adreno6xx, [0000023DF2D96E00][0000023DF39BC1C0 49] Android_Adreno6xx_Vulkan, [0000023DF2F45700][0000023DF39C0480 49] Android_Mali_T6xx, [0000023DF2D95100][0000023DF39C4740 49] Android_Mali_T7xx, [0000023DF2F45E00][0000023DF39C8A00 49] Android_Mali_T8xx, [0000023DF2D94100][0000023DF39CCCC0 49] Android_Mali_G71, [0000023DF2F46100][0000023DF39D0F80 49] Android_Mali_G72, [0000023DF2D94A00][0000023DF39D5240 49] Android_Mali_G72_Vulkan, [0000023DF2F44E00][0000023DF39D9500 49] Android_Mali_G76, [0000023DF2D96C00][0000023DF39DD7C0 49] Android_Mali_G76_Vulkan, [0000023DF2F45200][0000023DF39B9A40 49] Android_Mali_G77, [0000023DF2D96100][0000023DF35E0140 49] Android_Mali_G77_Vulkan, [0000023DF2F44900][0000023DF35E8400 49] Android_Mali_G78, [0000023DF2D95500][0000023DF35EC6C0 49] Android_Mali_G78_Vulkan, [0000023DF2F45A00][0000023DF35F0980 49] Android_Mali_G710, [0000023DF2D96800][0000023DF35F4C40 49] Android_Mali_G710_Vulkan, [0000023DF2F46A00][0000023DF35F8F00 49] Android_Vulkan_SM5, [0000023DF2D97800][0000023DF35FD1C0 49] Android_PowerVR_G6xxx, [0000023DF2F46C00][0000023DF3601480 49] Android_PowerVR_GT7xxx, [0000023DF2DB6600][0000023DF3605740 49] Android_PowerVR_GE8xxx, [0000023DF2F45D00][0000023DF3609A00 49] Android_PowerVR_GM9xxx, [0000023DF2DB5600][0000023DF35E4100 49] Android_PowerVR_GM9xxx_Vulkan, [0000023DF2F46200][0000023DF360C380 49] Android_TegraK1, [0000023DF2DB7500][0000023DF3614640 49] Android_Unknown_Vulkan, [0000023DF2F46000][0000023DF3618900 49] Lumin, [0000023DF2DB4500][0000023DF361CBC0 49] Lumin_Desktop, [0000023DF2F44800][0000023DF3620E80 49] HoloLens, 
+[2023.03.04-09.31.06:528][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.03.04-09.31.06:528][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.03.04-09.31.06:528][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.03.04-09.31.06:528][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.03.04-09.31.06:528][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.03.04-09.31.06:564][  0]LogNetVersion: MyProject 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3629800737)
+[2023.03.04-09.31.07:574][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.03.04-09.31.07:715][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.03.04-09.31.07:724][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.03.04-09.31.07:724][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.03.04-09.31.07:724][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.03.04-09.31.08:300][  0]LogPython: Using Python 3.7.7
+[2023.03.04-09.31.08:973][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.03.04-09.31.08:981][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.03.04-09.31.09:019][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: C27F2D254792DB602B8B739527FDBAE2 | Instance: F81B497A42DF8D02E5EF6EB2A1801B56 (WILLSPC-26280).
+[2023.03.04-09.31.10:391][  0]SourceControl: Source control is disabled
+[2023.03.04-09.31.10:393][  0]SourceControl: Source control is disabled
+[2023.03.04-09.31.10:398][  0]SourceControl: Source control is disabled
+[2023.03.04-09.31.10:404][  0]SourceControl: Source control is disabled
+[2023.03.04-09.31.10:450][  0]SourceControl: Source control is disabled
+[2023.03.04-09.31.10:481][  0]LogUProjectInfo: Found projects:
+[2023.03.04-09.31.10:533][  0]LogOpenImageDenoise: OIDN starting up
+[2023.03.04-09.31.10:681][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.03.04-09.31.10:707][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.04-09.31.10:707][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.04-09.31.11:007][  0]LogCollectionManager: Loaded 0 collections in 0.004793 seconds
+[2023.03.04-09.31.11:058][  0]LogFileCache: Scanning file cache for directory 'C:/Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Collections/' took 0.00s
+[2023.03.04-09.31.11:058][  0]LogFileCache: Scanning file cache for directory 'C:/Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/Developers/William/Collections/' took 0.00s
+[2023.03.04-09.31.11:058][  0]LogFileCache: Scanning file cache for directory 'C:/Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/Collections/' took 0.00s
+[2023.03.04-09.31.11:058][  0]LogOcInput: OculusInput pre-init called
+[2023.03.04-09.31.11:527][  0]LogEngine: Initializing Engine...
+[2023.03.04-09.31.11:538][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.03.04-09.31.11:539][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.03.04-09.31.11:540][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.03.04-09.31.11:541][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.03.04-09.31.11:895][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.03.04-09.31.11:935][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.03.04-09.31.11:959][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.03.04-09.31.11:970][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.03.04-09.31.11:974][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.03.04-09.31.11:974][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.03.04-09.31.11:974][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.03.04-09.31.11:975][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.04-09.31.11:975][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.04-09.31.11:975][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.04-09.31.11:975][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.04-09.31.11:975][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.04-09.31.11:975][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.04-09.31.11:975][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.04-09.31.11:975][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.04-09.31.11:976][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.04-09.31.11:976][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.04-09.31.11:976][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.04-09.31.11:976][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.04-09.31.12:005][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.04-09.31.12:006][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.03.04-09.31.12:133][  0]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2023.03.04-09.31.12:137][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.04-09.31.12:141][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.04-09.31.12:141][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.04-09.31.12:144][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.04-09.31.12:145][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.04-09.31.12:145][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.04-09.31.12:147][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.04-09.31.12:147][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.04-09.31.12:147][  0]LogInit: FAudioDevice initialized.
+[2023.03.04-09.31.12:147][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.03.04-09.31.12:147][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.03.04-09.31.12:362][  0]LogDerivedDataCache: Saved boot cache 0.21s 99MB C:/Users/William/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.03.04-09.31.12:363][  0]LogInit: Texture streaming: Enabled
+[2023.03.04-09.31.12:395][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.03.04-09.31.12:405][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.03.04-09.31.12:405][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.03.04-09.31.12:411][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.03.04-09.31.12:510][  0]LogInit: Transaction tracking system initialized
+[2023.03.04-09.31.12:582][  0]BlueprintLog: New page: Editor Load
+[2023.03.04-09.31.12:736][  0]LocalizationService: Localization service is disabled
+[2023.03.04-09.31.12:789][  0]TimingProfiler: Initialize
+[2023.03.04-09.31.12:789][  0]TimingProfiler: OnSessionChanged
+[2023.03.04-09.31.12:789][  0]LoadingProfiler: Initialize
+[2023.03.04-09.31.12:789][  0]LoadingProfiler: OnSessionChanged
+[2023.03.04-09.31.12:789][  0]NetworkingProfiler: Initialize
+[2023.03.04-09.31.12:789][  0]NetworkingProfiler: OnSessionChanged
+[2023.03.04-09.31.12:789][  0]MemoryProfiler: Initialize
+[2023.03.04-09.31.12:789][  0]MemoryProfiler: OnSessionChanged
+[2023.03.04-09.31.13:165][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.03.04-09.31.13:165][  0]LogCook: Display: Mobile HDR setting 1
+[2023.03.04-09.31.13:626][  0]LogFileCache: Scanning file cache for directory 'C:/Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/' took 0.01s
+[2023.03.04-09.31.14:043][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.03.04-09.31.14:053][  0]SourceControl: Source control is disabled
+[2023.03.04-09.31.14:054][  0]LogUnrealEdMisc: Loading editor; pre map load, took 14.486
+[2023.03.04-09.31.14:054][  0]Cmd: MAP LOAD FILE="../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.04-09.31.14:057][  0]LightingResults: New page: Lighting Build
+[2023.03.04-09.31.14:060][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.03.04-09.31.14:060][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.04-09.31.14:060][  0]MapCheck: New page: Map Check
+[2023.03.04-09.31.14:060][  0]LightingResults: New page: Lighting Build
+[2023.03.04-09.31.14:068][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.04-09.31.14:081][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.03.04-09.31.14:185][  0]LogTexture: Display: Building textures: DeprecatedTextureD5B55AC7496CD3FBF6154CA3715BB71F (BGRA8, 128X128)
+[2023.03.04-09.31.14:315][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2023.03.04-09.31.14:317][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.03.04-09.31.14:361][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.04-09.31.14:378][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.03.04-09.31.14:379][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.04-09.31.14:379][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.511ms to complete.
+[2023.03.04-09.31.14:380][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.325
+[2023.03.04-09.31.14:388][  0]LogUnrealEdMisc: Total Editor Startup Time, took 14.821
+[2023.03.04-09.31.14:661][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.04-09.31.14:675][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.04-09.31.14:686][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.04-09.31.14:700][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.04-09.31.14:738][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0138 seconds. Added 3826 classes and 930 folders.
+[2023.03.04-09.31.14:748][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.03.04-09.31.14:773][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.03.04-09.31.14:773][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.04-09.31.14:773][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.04-09.31.14:775][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.04-09.31.14:775][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.03.04-09.31.14:775][  0]LogPakFile: OnPakFileMounted2Time == 0.001510
+[2023.03.04-09.31.14:792][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.03.04-09.31.14:792][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.04-09.31.14:792][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.03.04-09.31.14:792][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.04-09.31.14:792][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.03.04-09.31.14:792][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
+[2023.03.04-09.31.14:803][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.03.04-09.31.14:803][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.04-09.31.14:803][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.03.04-09.31.14:803][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.04-09.31.14:803][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.03.04-09.31.14:803][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2023.03.04-09.31.14:812][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.04-09.31.14:812][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.04-09.31.14:812][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.04-09.31.14:812][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.04-09.31.14:812][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.03.04-09.31.14:812][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2023.03.04-09.31.14:821][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.03.04-09.31.14:821][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.04-09.31.14:821][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.03.04-09.31.14:821][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.04-09.31.14:821][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.03.04-09.31.14:821][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2023.03.04-09.31.14:831][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.03.04-09.31.14:831][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.04-09.31.14:831][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.03.04-09.31.14:831][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.04-09.31.14:831][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.03.04-09.31.14:831][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2023.03.04-09.31.14:843][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.03.04-09.31.14:843][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.04-09.31.14:843][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.03.04-09.31.14:843][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.04-09.31.14:843][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.03.04-09.31.14:844][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2023.03.04-09.31.14:853][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.03.04-09.31.14:853][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.04-09.31.14:853][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.03.04-09.31.14:853][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.04-09.31.14:853][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.03.04-09.31.14:853][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2023.03.04-09.31.14:867][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.03.04-09.31.14:867][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.04-09.31.14:867][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.03.04-09.31.14:867][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.04-09.31.14:867][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.03.04-09.31.14:867][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2023.03.04-09.31.14:880][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.03.04-09.31.14:880][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.04-09.31.14:880][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.03.04-09.31.14:880][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.04-09.31.14:880][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.03.04-09.31.14:880][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2023.03.04-09.31.14:888][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.03.04-09.31.14:888][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.04-09.31.14:888][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.03.04-09.31.14:888][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.04-09.31.14:888][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.03.04-09.31.14:888][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2023.03.04-09.31.14:899][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.03.04-09.31.14:899][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.04-09.31.14:899][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.03.04-09.31.14:899][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.04-09.31.14:899][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.03.04-09.31.14:900][  0]LogPakFile: OnPakFileMounted2Time == 0.000132
+[2023.03.04-09.31.14:914][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.04-09.31.14:914][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.04-09.31.14:914][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.04-09.31.14:914][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.04-09.31.14:914][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.03.04-09.31.14:914][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
+[2023.03.04-09.31.14:923][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.03.04-09.31.14:923][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.04-09.31.14:923][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.03.04-09.31.14:923][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.04-09.31.14:923][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.03.04-09.31.14:923][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2023.03.04-09.31.14:933][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.03.04-09.31.14:933][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.04-09.31.14:933][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.03.04-09.31.14:933][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.04-09.31.14:933][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.03.04-09.31.14:933][  0]LogPakFile: OnPakFileMounted2Time == 0.000109
+[2023.03.04-09.31.14:943][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.03.04-09.31.14:943][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.04-09.31.14:943][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.04-09.31.14:943][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.04-09.31.14:943][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.03.04-09.31.14:943][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2023.03.04-09.31.14:952][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.03.04-09.31.14:953][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.04-09.31.14:953][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.03.04-09.31.14:953][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.04-09.31.14:953][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.03.04-09.31.14:953][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2023.03.04-09.31.14:961][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.03.04-09.31.14:961][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.04-09.31.14:962][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.03.04-09.31.14:962][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.04-09.31.14:962][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.03.04-09.31.14:962][  0]LogPakFile: OnPakFileMounted2Time == 0.000097
+[2023.03.04-09.31.14:977][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.04-09.31.14:977][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.04-09.31.14:977][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.04-09.31.14:977][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.04-09.31.14:979][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.03.04-09.31.14:979][  0]LogPakFile: OnPakFileMounted2Time == 0.000089
+[2023.03.04-09.31.14:991][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.04-09.31.14:991][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.04-09.31.14:991][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.04-09.31.14:991][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.04-09.31.14:991][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.03.04-09.31.14:991][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2023.03.04-09.31.15:002][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.03.04-09.31.15:003][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.04-09.31.15:003][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.04-09.31.15:003][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.04-09.31.15:003][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.03.04-09.31.15:003][  0]LogPakFile: OnPakFileMounted2Time == 0.000087
+[2023.03.04-09.31.15:013][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.03.04-09.31.15:013][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.04-09.31.15:013][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.03.04-09.31.15:013][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.04-09.31.15:013][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.03.04-09.31.15:013][  0]LogPakFile: OnPakFileMounted2Time == 0.000108
+[2023.03.04-09.31.15:022][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.03.04-09.31.15:022][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.04-09.31.15:022][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.03.04-09.31.15:022][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.04-09.31.15:022][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.03.04-09.31.15:022][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2023.03.04-09.31.15:030][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.03.04-09.31.15:030][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.04-09.31.15:030][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.03.04-09.31.15:030][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.04-09.31.15:030][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.03.04-09.31.15:030][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2023.03.04-09.31.15:043][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.04-09.31.15:043][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.04-09.31.15:043][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.04-09.31.15:043][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.04-09.31.15:043][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.03.04-09.31.15:043][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2023.03.04-09.31.15:053][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.03.04-09.31.15:053][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.04-09.31.15:053][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.03.04-09.31.15:053][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.04-09.31.15:053][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.03.04-09.31.15:053][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2023.03.04-09.31.15:439][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2023.03.04-09.31.15:453][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 2 classes and 0 folders.
+[2023.03.04-09.31.15:750][  0]LogSlate: Took 0.000755 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.04-09.31.15:767][  0]LogSlate: Took 0.016068 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.03.04-09.31.15:771][  0]LogSlate: Took 0.000760 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.03.04-09.31.15:778][  0]LogSlate: Took 0.000857 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.04-09.31.16:080][  0]LogRenderer: Reallocating scene render targets to support 1288x648 Format 10 NumSamples 1 (Frame:1).
+[2023.03.04-09.31.16:359][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2023.03.04-09.31.16:359][  0]LogLoad: (Engine Initialization) Total time: 16.79 seconds
+[2023.03.04-09.31.16:359][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.03.04-09.31.16:443][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.03.04-09.31.16:511][  1]LogAssetRegistry: Asset discovery search completed in 11.1386 seconds
+[2023.03.04-09.31.16:529][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2023.03.04-09.31.17:829][  5]LogSlate: Took 0.012546 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.04-09.31.20:758][ 72]LogSlate: Took 0.000321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.04-09.31.28:834][521]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-09.31.29:285][521]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 126 classes and 0 folders.
+[2023.03.04-09.31.30:390][521]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.03.04-09.32.00:955][686]LogSlate: Window 'InventoryComponent' being destroyed
+[2023.03.04-09.33.02:186][716]LogSlate: Window 'Editor Preferences' being destroyed
+[2023.03.04-09.33.05:196][842]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.03.04-09.33.50:419][ 91]LogSlate: Window 'Project Settings' being destroyed
+[2023.03.04-09.34.01:180][718]LogSlate: Took 0.007800 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.03.04-09.35.32:238][666]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponent42C56CFF416D2B23E75EF79B586DE351.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-09.35.32:266][666]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-09.35.32:266][666]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-09.35.32:674][691]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-09.35.32:749][691]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2023.03.04-09.35.41:219][189]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPerson/Character/Inventory/UI/Inventory.Inventory
+[2023.03.04-09.36.15:358][165]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponentAC82F7BE4BFF13DFFB2D65904305227E.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-09.36.15:377][165]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-09.36.15:377][165]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-09.36.28:783][778]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponentD02EB61847D8AC1D456567AA6B411530.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-09.36.28:800][778]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-09.36.28:800][778]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-09.36.49:318][688]LogEditorTransaction: Undo Split Struct Pin
+[2023.03.04-09.37.03:073][470]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponent9ED8238741586B0CA2B9EABBB8308EBA.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-09.37.03:095][470]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-09.37.03:095][470]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-09.37.27:460][471]LogEditorTransaction: Undo Promote to Local Variable
+[2023.03.04-09.38.08:452][853]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponent2F3441E84D746B655D5CCBBAB50FA2CB.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-09.38.08:473][853]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-09.38.08:473][853]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-09.38.09:482][912]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-09.38.09:628][912]LogUObjectHash: Compacting FUObjectHashTables data took   9.23ms
+[2023.03.04-09.38.15:752][270]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Character/Inventory/Items/Item.Item
+[2023.03.04-09.38.17:460][344]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.03.04-09.38.17:460][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.04-09.38.17:550][344]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Character/Inventory/Items/Item.Item
+[2023.03.04-09.38.44:952][404]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Item309F2A1942FB8E374BF0F99B6319C00C.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/Items/Item.uasset'
+[2023.03.04-09.38.44:971][404]AssetCheck: New page: Asset Save: Item
+[2023.03.04-09.38.44:971][404]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/Items/Item.Item
+[2023.03.04-09.38.45:228][420]BlueprintLog: New page: Compile Item
+[2023.03.04-09.38.45:307][420]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2023.03.04-09.38.49:121][643]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponent91D8C11645EDBF390CCAE9B35BE26109.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-09.38.49:143][643]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-09.38.49:143][643]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-09.38.51:910][805]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponent6A452B944B608DDE7F9122857BDE012F.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-09.38.51:932][805]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-09.38.51:932][805]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-09.38.52:508][840]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-09.38.52:563][840]LogUObjectHash: Compacting FUObjectHashTables data took   7.22ms
+[2023.03.04-09.39.02:653][433]LogSlate: Took 0.011679 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.03.04-09.39.17:707][319]LogRenderer: Reallocating scene render targets to support 1288x684 Format 10 NumSamples 1 (Frame:1).
+[2023.03.04-09.39.30:324][ 54]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Item381249AF4C8F39F9D45D28A61DED4B60.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/Items/Item.uasset'
+[2023.03.04-09.39.30:343][ 54]AssetCheck: New page: Asset Save: Item
+[2023.03.04-09.39.30:343][ 54]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/Items/Item.Item
+[2023.03.04-09.39.30:805][ 82]BlueprintLog: New page: Compile Item
+[2023.03.04-09.39.30:880][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   6.48ms
+[2023.03.04-09.39.38:238][506]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.03.04-09.39.38:238][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.04-09.39.41:204][677]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponentBF972F7649C6CB827E2CAE89ABB1A9B5.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-09.39.41:223][677]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-09.39.41:223][677]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-09.40.47:211][690]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Arena/Inventory/InventoryComp.InventoryComp_C"',MemberName="Inventory",MemberGuid=80BEB85B4F9C6CBD55369D8D74A0E986)'
+[2023.03.04-09.40.47:213][690]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Arena/Inventory/InventoryComp.InventoryComp_C"',MemberName="Name",MemberGuid=DC08CBE242F98E50883B56B642EF8BCA)'
+[2023.03.04-09.40.57:865][319]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Inventory6FC2CE6244119C12D500339CE65F96E4.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/UI/Inventory.uasset'
+[2023.03.04-09.40.57:890][319]AssetCheck: New page: Asset Save: Inventory
+[2023.03.04-09.40.57:890][319]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPerson/Character/Inventory/UI/Inventory.Inventory
+[2023.03.04-09.41.09:486][997]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.04-09.41.13:867][257]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.03.04-09.41.14:750][307]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryE70BDB6B44DA892B62F49ABBE00EFF58.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/UI/Inventory.uasset'
+[2023.03.04-09.41.14:768][307]AssetCheck: New page: Asset Save: Inventory
+[2023.03.04-09.41.14:768][307]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPerson/Character/Inventory/UI/Inventory.Inventory
+[2023.03.04-09.41.15:942][378]BlueprintLog: New page: Compile Inventory
+[2023.03.04-09.41.15:946][378]LogBlueprint: Warning: [AssetLog] C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Content\FirstPerson\Character\Inventory\UI\Inventory.uasset: [Compiler] Could not find a variable named "Name" in 'Inventory'.
+Make sure 'Inventory' has been compiled for  Get Name
+[2023.03.04-09.41.15:947][378]LogBlueprint: Error: [AssetLog] C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Content\FirstPerson\Character\Inventory\UI\Inventory.uasset: [Compiler] In use pin  Inventory  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.03.04-09.41.15:947][378]LogBlueprint: Warning: [AssetLog] C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Content\FirstPerson\Character\Inventory\UI\Inventory.uasset: [Compiler] Could not find a variable named "Title" in 'Inventory_C'.
+Make sure 'Inventory_C' has been compiled for  Set Title
+[2023.03.04-09.41.15:948][378]LogBlueprint: Error: [AssetLog] C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Content\FirstPerson\Character\Inventory\UI\Inventory.uasset: [Compiler] The property associated with  Name  could not be found in '/Game/FirstPerson/Character/Inventory/UI/Inventory.Inventory_C'
+[2023.03.04-09.41.15:948][378]LogBlueprint: Error: [AssetLog] C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Content\FirstPerson\Character\Inventory\UI\Inventory.uasset: [Compiler] The property associated with  Title  could not be found in '/Game/FirstPerson/Character/Inventory/UI/Inventory.Inventory_C'
+[2023.03.04-09.41.16:012][378]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2023.03.04-09.41.32:168][332]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Inventory4F4BD6DB4424DF7B039D59A7E04E7C71.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/UI/Inventory.uasset'
+[2023.03.04-09.41.32:184][332]AssetCheck: New page: Asset Save: Inventory
+[2023.03.04-09.41.32:184][332]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPerson/Character/Inventory/UI/Inventory.Inventory
+[2023.03.04-09.41.46:474][179]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryF5A271614A6CEE0A33BB579CD2DD22D6.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/UI/Inventory.uasset'
+[2023.03.04-09.41.46:494][179]AssetCheck: New page: Asset Save: Inventory
+[2023.03.04-09.41.46:494][179]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPerson/Character/Inventory/UI/Inventory.Inventory
+[2023.03.04-09.41.47:204][222]BlueprintLog: New page: Compile Inventory
+[2023.03.04-09.41.47:207][222]LogBlueprint: Warning: [AssetLog] C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Content\FirstPerson\Character\Inventory\UI\Inventory.uasset: [Compiler] Could not find a variable named "Title" in 'Inventory_C'.
+Make sure 'Inventory_C' has been compiled for  Set Title
+[2023.03.04-09.41.47:208][222]LogBlueprint: Error: [AssetLog] C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Content\FirstPerson\Character\Inventory\UI\Inventory.uasset: [Compiler] The property associated with  Title  could not be found in '/Game/FirstPerson/Character/Inventory/UI/Inventory.Inventory_C'
+[2023.03.04-09.41.47:265][222]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2023.03.04-09.41.56:606][777]BlueprintLog: New page: Compile Inventory
+[2023.03.04-09.41.56:652][777]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2023.03.04-09.41.57:508][825]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Inventory72DCDF5F494D4A61F669C8B5072C094F.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/UI/Inventory.uasset'
+[2023.03.04-09.41.57:531][825]AssetCheck: New page: Asset Save: Inventory
+[2023.03.04-09.41.57:531][825]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPerson/Character/Inventory/UI/Inventory.Inventory
+[2023.03.04-09.42.04:484][235]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPerson/Character/Inventory/UI/InventorySlot.InventorySlot
+[2023.03.04-09.42.25:995][658]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventorySlotDC8A84734DEF102EA531BCB46D90A239.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/UI/InventorySlot.uasset'
+[2023.03.04-09.42.26:016][658]AssetCheck: New page: Asset Save: InventorySlot
+[2023.03.04-09.42.26:016][658]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPerson/Character/Inventory/UI/InventorySlot.InventorySlot
+[2023.03.04-09.42.26:374][680]BlueprintLog: New page: Compile InventorySlot
+[2023.03.04-09.42.26:440][680]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2023.03.04-09.42.28:850][821]LogEditorTransaction: Undo Paste clipboard contents
+[2023.03.04-09.42.33:255][ 74]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventorySlotCF5AF49848F1EF361F6676A715178219.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/UI/InventorySlot.uasset'
+[2023.03.04-09.42.33:273][ 74]AssetCheck: New page: Asset Save: InventorySlot
+[2023.03.04-09.42.33:273][ 74]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPerson/Character/Inventory/UI/InventorySlot.InventorySlot
+[2023.03.04-09.42.43:270][668]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Inventory0AB295EE4DF1493EE97AE3B01945F425.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/UI/Inventory.uasset'
+[2023.03.04-09.42.43:287][668]AssetCheck: New page: Asset Save: Inventory
+[2023.03.04-09.42.43:287][668]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPerson/Character/Inventory/UI/Inventory.Inventory
+[2023.03.04-09.42.43:576][686]BlueprintLog: New page: Compile Inventory
+[2023.03.04-09.42.43:644][686]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2023.03.04-09.42.48:242][958]BlueprintLog: New page: Compile InventorySlot
+[2023.03.04-09.42.48:290][958]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2023.03.04-09.42.48:762][982]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventorySlotE4E83C5E410DD867D482F9973476D054.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/UI/InventorySlot.uasset'
+[2023.03.04-09.42.48:780][982]AssetCheck: New page: Asset Save: InventorySlot
+[2023.03.04-09.42.48:780][982]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPerson/Character/Inventory/UI/InventorySlot.InventorySlot
+[2023.03.04-09.43.52:313][442]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventorySlot192BCC8942FD929D2D1C7EAFB8905EB7.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/UI/InventorySlot.uasset'
+[2023.03.04-09.43.52:336][442]AssetCheck: New page: Asset Save: InventorySlot
+[2023.03.04-09.43.52:336][442]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPerson/Character/Inventory/UI/InventorySlot.InventorySlot
+[2023.03.04-09.43.52:851][472]BlueprintLog: New page: Compile InventorySlot
+[2023.03.04-09.43.52:930][472]LogUObjectHash: Compacting FUObjectHashTables data took   6.99ms
+[2023.03.04-09.44.28:959][583]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventorySlot3944233A4B6AE848AED60F81C7185562.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/UI/InventorySlot.uasset'
+[2023.03.04-09.44.28:976][583]AssetCheck: New page: Asset Save: InventorySlot
+[2023.03.04-09.44.28:976][583]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPerson/Character/Inventory/UI/InventorySlot.InventorySlot
+[2023.03.04-09.44.33:776][869]BlueprintLog: New page: Compile InventorySlot
+[2023.03.04-09.44.33:840][869]LogUObjectHash: Compacting FUObjectHashTables data took   6.34ms
+[2023.03.04-09.44.34:118][885]BlueprintLog: New page: Compile InventorySlot
+[2023.03.04-09.44.34:162][885]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2023.03.04-09.44.35:345][955]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.03.04-09.44.35:345][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.04-09.44.35:356][955]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.03.04-09.44.35:357][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.04-09.44.43:370][427]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.03.04-09.44.43:391][427]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.04-09.44.45:891][569]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Inventory0C0F688C4A620B3ACD5B699CDAFC5EB4.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/UI/Inventory.uasset'
+[2023.03.04-09.44.45:916][569]AssetCheck: New page: Asset Save: Inventory
+[2023.03.04-09.44.45:916][569]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPerson/Character/Inventory/UI/Inventory.Inventory
+[2023.03.04-09.44.46:211][587]BlueprintLog: New page: Compile Inventory
+[2023.03.04-09.44.46:281][587]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2023.03.04-09.45.05:279][896]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPerson/Character/Inventory/UI/InventorySlot.InventorySlot
+[2023.03.04-09.45.17:671][610]BlueprintLog: New page: Compile InventorySlot
+[2023.03.04-09.45.17:725][610]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2023.03.04-09.45.18:058][627]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventorySlot73049B2A4183DA09D30AEABE0E7C0397.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/UI/InventorySlot.uasset'
+[2023.03.04-09.45.18:077][627]AssetCheck: New page: Asset Save: InventorySlot
+[2023.03.04-09.45.18:077][627]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPerson/Character/Inventory/UI/InventorySlot.InventorySlot
+[2023.03.04-09.45.22:093][863]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventorySlot71F8E1BD4561AFC88C619B822F818615.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/UI/InventorySlot.uasset'
+[2023.03.04-09.45.22:110][863]AssetCheck: New page: Asset Save: InventorySlot
+[2023.03.04-09.45.22:110][863]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPerson/Character/Inventory/UI/InventorySlot.InventorySlot
+[2023.03.04-09.45.22:567][891]BlueprintLog: New page: Compile InventorySlot
+[2023.03.04-09.45.22:632][891]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2023.03.04-09.45.33:264][525]BlueprintLog: New page: Compile Inventory
+[2023.03.04-09.45.33:313][525]LogUObjectHash: Compacting FUObjectHashTables data took   6.33ms
+[2023.03.04-09.45.34:147][572]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Inventory254849DA4CAB51B57A093C947854C3F4.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/UI/Inventory.uasset'
+[2023.03.04-09.45.34:163][572]AssetCheck: New page: Asset Save: Inventory
+[2023.03.04-09.45.34:163][572]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPerson/Character/Inventory/UI/Inventory.Inventory
+[2023.03.04-09.45.38:276][818]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.03.04-09.45.38:276][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.04-09.45.38:286][818]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.03.04-09.45.38:286][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.04-09.45.39:961][915]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.03.04-09.45.39:961][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.04-09.45.39:972][915]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.03.04-09.45.39:972][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.04-09.45.41:939][ 27]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPerson/Character/Inventory/UI/Inventory.Inventory
+[2023.03.04-09.45.51:534][563]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPerson/Character/Inventory/UI/InventorySlot.InventorySlot
+[2023.03.04-09.46.28:757][413]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventorySlotE4C022B447585B676D9A90BCC3BA6912.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/UI/InventorySlot.uasset'
+[2023.03.04-09.46.28:774][413]AssetCheck: New page: Asset Save: InventorySlot
+[2023.03.04-09.46.28:774][413]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPerson/Character/Inventory/UI/InventorySlot.InventorySlot
+[2023.03.04-09.46.29:147][436]BlueprintLog: New page: Compile InventorySlot
+[2023.03.04-09.46.29:246][436]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2023.03.04-09.46.33:830][708]BlueprintLog: New page: Compile Inventory
+[2023.03.04-09.46.33:927][708]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2023.03.04-09.46.34:203][720]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Inventory92F8C07B4CCB1463982EA0BBF3A8BEE2.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/UI/Inventory.uasset'
+[2023.03.04-09.46.34:226][720]AssetCheck: New page: Asset Save: Inventory
+[2023.03.04-09.46.34:226][720]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPerson/Character/Inventory/UI/Inventory.Inventory
+[2023.03.04-09.48.17:029][114]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'WidgetBlueprintGeneratedClass'"/Game/Arena/Inventory/InventoryUI/InventoryHUD.InventoryHUD_C"',MemberName="Canvas")'
+[2023.03.04-09.48.17:030][114]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'BlueprintGeneratedClass'"/Game/RPGController.RPGController_C"''
+[2023.03.04-09.48.17:030][114]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/RPGController.RPGController_C"',MemberName="HUD",MemberGuid=2B03359A48FC148FDC2E58AEA6553466)'
+[2023.03.04-09.48.21:314][370]LogEditorTransaction: Undo Paste clipboard contents
+[2023.03.04-09.48.22:591][441]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'WidgetBlueprintGeneratedClass'"/Game/Arena/Inventory/InventoryUI/InventoryHUD.InventoryHUD_C"',MemberName="Canvas")'
+[2023.03.04-09.48.22:592][441]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'BlueprintGeneratedClass'"/Game/RPGController.RPGController_C"''
+[2023.03.04-09.48.22:592][441]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/RPGController.RPGController_C"',MemberName="HUD",MemberGuid=2B03359A48FC148FDC2E58AEA6553466)'
+[2023.03.04-09.48.30:282][900]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.03.04-09.48.30:302][900]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.04-09.49.09:451][654]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.03.04-09.49.09:461][654]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.03.04-09.49.09:477][654]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.03.04-09.49.22:818][455]LogContentBrowser: Attempting asset rename: NewBlueprint -> PlayerController
+[2023.03.04-09.49.22:828][455]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.03.04-09.49.23:481][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerController" FILE="../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/PlayerController.uasset" SILENT=true
+[2023.03.04-09.49.23:486][493]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/PlayerController3EF6D6804B04207F4D720EB03766E1D0.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/PlayerController.uasset'
+[2023.03.04-09.49.23:502][493]AssetCheck: New page: Asset Save: PlayerController
+[2023.03.04-09.49.23:502][493]LogContentValidation: Display: Validating Blueprint /Game/PlayerController.PlayerController
+[2023.03.04-09.49.44:062][717]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-09.49.44:071][717]LogBlueprint: Error: [AssetLog] C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Content\FirstPerson\Character\Inventory\InventoryComponent.uasset: [Compiler] In use pin  Inventory  no longer exists on node  Create Widget . Please refresh node or break links to remove pin.
+[2023.03.04-09.49.44:071][717]LogBlueprint: Error: [AssetLog] C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Content\FirstPerson\Character\Inventory\InventoryComponent.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set InventoryWindow . Please refresh node or break links to remove pin.
+[2023.03.04-09.49.44:071][717]LogBlueprint: Error: [AssetLog] C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Content\FirstPerson\Character\Inventory\InventoryComponent.uasset: [Compiler] In use pin  Inventory Window  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.03.04-09.49.44:117][717]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2023.03.04-09.49.50:546][ 97]BlueprintLog: New page: Compile Inventory
+[2023.03.04-09.49.50:593][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2023.03.04-09.49.51:010][118]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Inventory591911D84D1BA20EC9954786373E78B0.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/UI/Inventory.uasset'
+[2023.03.04-09.49.51:027][118]AssetCheck: New page: Asset Save: Inventory
+[2023.03.04-09.49.51:028][118]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPerson/Character/Inventory/UI/Inventory.Inventory
+[2023.03.04-09.49.53:678][274]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-09.49.53:685][274]LogBlueprint: Error: [AssetLog] C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Content\FirstPerson\Character\Inventory\InventoryComponent.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set InventoryWindow . Please refresh node or break links to remove pin.
+[2023.03.04-09.49.53:686][274]LogBlueprint: Error: [AssetLog] C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Content\FirstPerson\Character\Inventory\InventoryComponent.uasset: [Compiler] In use pin  Inventory Window  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.03.04-09.49.53:726][274]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2023.03.04-09.50.29:000][263]LogSlate: Window 'Change Variable Type' being destroyed
+[2023.03.04-09.50.33:034][491]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.03.04-09.50.33:040][491]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.03.04-09.50.45:782][244]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponentCD75D45A40BCE94042B4E29DAA08EDCA.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-09.50.45:798][244]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-09.50.45:798][244]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-09.50.48:348][397]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-09.50.48:354][397]LogBlueprint: Error: [AssetLog] C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Content\FirstPerson\Character\Inventory\InventoryComponent.uasset: [Compiler] In use pin  Inventory Window  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.03.04-09.50.48:355][397]LogClass: Warning: Type mismatch in InventoryWindow of InventoryComponent_C - Previous (StructProperty) Current(ObjectProperty) for package:  FObjectReader
+[2023.03.04-09.50.48:395][397]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2023.03.04-09.50.53:888][721]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-09.50.53:894][721]LogBlueprint: Error: [AssetLog] C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Content\FirstPerson\Character\Inventory\InventoryComponent.uasset: [Compiler] In use pin  Inventory Window  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.03.04-09.50.53:932][721]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2023.03.04-09.50.54:302][738]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponent80AFE6AB4373D039A1ECDBB6B40408D1.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-09.50.54:324][738]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-09.50.54:324][738]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-09.51.00:907][126]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponent5EF8181845D0C24CB54931A47B68B5C0.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-09.51.00:929][126]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-09.51.00:929][126]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-09.51.01:277][147]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-09.51.01:284][147]LogBlueprint: Error: [AssetLog] C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Content\FirstPerson\Character\Inventory\InventoryComponent.uasset: [Compiler] This blueprint (self) is not a CanvasPanel, therefore ' Target ' must have a connection.
+[2023.03.04-09.51.01:333][147]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2023.03.04-09.51.07:692][521]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerController.PlayerController
+[2023.03.04-09.51.34:955][478]BlueprintLog: New page: Compile PlayerController
+[2023.03.04-09.51.35:014][478]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2023.03.04-09.51.45:657][112]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.03.04-09.51.45:678][112]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.04-09.51.50:969][427]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.03.04-09.52.00:045][904]LogSlate: Window 'Change Variable Type' being destroyed
+[2023.03.04-09.52.06:575][289]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.03.04-09.52.06:580][289]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.03.04-09.52.11:789][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerController" FILE="../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/PlayerController.uasset" SILENT=true
+[2023.03.04-09.52.11:795][595]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/PlayerController5D831BBF44C33FEF7A08748A291A64F3.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/PlayerController.uasset'
+[2023.03.04-09.52.11:814][595]AssetCheck: New page: Asset Save: PlayerController
+[2023.03.04-09.52.11:814][595]LogContentValidation: Display: Validating Blueprint /Game/PlayerController.PlayerController
+[2023.03.04-09.52.12:288][624]BlueprintLog: New page: Compile PlayerController
+[2023.03.04-09.52.12:344][624]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2023.03.04-09.52.13:863][711]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.03.04-09.52.13:863][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.04-09.52.28:047][544]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponentB2817C0A4EE32BF59BE3999BE1EF0719.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-09.52.28:064][544]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-09.52.28:064][544]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-09.52.29:225][613]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-09.52.29:275][613]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2023.03.04-09.53.10:179][627]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponent27E14A284669FB3231D3AB99C7A7383B.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-09.53.10:198][627]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-09.53.10:198][627]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-09.53.11:157][685]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-09.53.11:206][685]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2023.03.04-09.53.36:068][168]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-09.53.36:113][168]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2023.03.04-09.53.36:550][189]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponentEABB4A9544CA171A7135E0A270A46C11.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-09.53.36:569][189]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-09.53.36:569][189]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-09.55.21:933][886]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponent4235233A4937D4EC647CB49437ED68E7.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-09.55.21:953][886]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-09.55.21:953][886]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-09.55.22:476][918]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-09.55.22:531][918]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2023.03.04-09.55.39:129][892]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-09.55.39:174][892]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2023.03.04-09.55.42:751][ 99]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponent67A0272B418C26FA3C77A49F97A86E53.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-09.55.42:766][ 99]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-09.55.42:766][ 99]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-09.56.18:424][445]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponent98332DAF45ADC1F9732891883837050D.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-09.56.18:440][445]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-09.56.18:440][445]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-09.56.18:979][478]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-09.56.19:026][478]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2023.03.04-09.56.24:932][822]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponent2D4475264D1765BA4F0783BE94D1B7F0.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-09.56.24:950][822]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-09.56.24:950][822]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-09.56.25:474][854]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-09.56.25:518][854]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2023.03.04-09.57.15:426][641]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponent102B9D394DE79E1F8E5C54A1AFBE1A5E.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-09.57.15:442][641]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-09.57.15:442][641]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-09.57.25:668][234]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponent32FA71B24DDF7EC470CC19BB0CB906F0.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-09.57.25:685][234]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-09.57.25:685][234]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-09.57.48:523][579]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponent13E1532E4C9FE66F183D5CA4E121AC7B.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-09.57.48:543][579]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-09.57.48:543][579]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-09.57.49:083][612]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-09.57.49:133][612]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2023.03.04-09.58.01:742][361]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponent3317B4784492928110ACDBBA9BEF0566.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-09.58.01:765][361]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-09.58.01:765][361]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-09.58.02:006][376]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-09.58.02:057][376]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2023.03.04-09.58.26:855][843]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponent8E84966A47EF4C14C7E523B7BEE6E239.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-09.58.26:870][843]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-09.58.26:870][843]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-09.58.27:726][895]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-09.58.27:773][895]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2023.03.04-09.58.57:986][ 52]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponent019EC968478D59311D2C68BBF4D5F7F3.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-09.58.58:002][ 52]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-09.58.58:002][ 52]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-09.58.58:491][ 82]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-09.58.58:495][ 82]LogBlueprint: Error: [AssetLog] C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Content\FirstPerson\Character\Inventory\InventoryComponent.uasset: [Compiler] Invalid pin connection from  Item  and  Item : Only exactly matching structures are considered compatible. (You may have changed the type after the connections were made)
+[2023.03.04-09.58.58:537][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2023.03.04-09.59.13:564][968]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponentBE77E4864D6AA7F71435BEBAFFF3E7D1.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-09.59.13:580][968]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-09.59.13:581][968]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-09.59.14:384][ 16]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-09.59.14:390][ 16]LogBlueprint: Error: [AssetLog] C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Content\FirstPerson\Character\Inventory\InventoryComponent.uasset: [Compiler] Invalid pin connection from  Item  and  Item : Only exactly matching structures are considered compatible. (You may have changed the type after the connections were made)
+[2023.03.04-09.59.14:432][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2023.03.04-09.59.24:342][605]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-09.59.24:389][605]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2023.03.04-09.59.25:101][643]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponentE780C871480EADC6EA0C5DB5F39639F5.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-09.59.25:120][643]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-09.59.25:120][643]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-09.59.29:833][919]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponent0EE37F8E4C45FD94D972948A1DDB1073.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-09.59.29:850][919]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-09.59.29:850][919]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-09.59.30:546][961]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-09.59.30:592][961]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2023.03.04-09.59.40:881][574]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-09.59.40:928][574]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2023.03.04-09.59.41:484][603]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponent2C4AA9154199340F494B298D76BCBC1D.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-09.59.41:502][603]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-09.59.41:502][603]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-09.59.58:012][587]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-09.59.58:064][587]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2023.03.04-09.59.58:463][606]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponent2EA5B2F745B5B0FFA1D402A3CA95CC9D.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-09.59.58:480][606]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-09.59.58:480][606]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-10.00.13:763][513]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponent97562BF54FB4FF7DED59789567E3B752.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-10.00.13:781][513]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-10.00.13:781][513]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-10.00.14:421][552]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-10.00.14:474][552]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2023.03.04-10.00.46:468][250]LogProperty: Warning: WeakObjectProperty /Script/Engine.EdGraphPinType:PinSubCategoryObject: unresolved reference to 'UserDefinedStruct'"/Game/Arena/Inventory/SlotStructure.SlotStructure"',ContainerType=Array)'
+[2023.03.04-10.00.56:595][852]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponent5AB5F31F47EB412B8209238CE0C91C11.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-10.00.56:611][852]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-10.00.56:611][852]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-10.01.09:936][615]LogEditorTransaction: Undo Add Node
+[2023.03.04-10.01.57:571][ 22]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-10.01.57:623][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2023.03.04-10.01.58:043][ 42]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponentD171763C4F50D71A3B1B929BC8C0B98D.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-10.01.58:067][ 42]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-10.01.58:067][ 42]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-10.02.00:503][186]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/FirstPerson/Character/Inventory/SlotStructure.SlotStructure
+[2023.03.04-10.02.04:643][427]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/FirstPerson/Character/Inventory/Items/ItemStructure.ItemStructure
+[2023.03.04-10.02.06:870][558]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_SlotStructure_1' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_SlotStructure_1' is empty
+[2023.03.04-10.02.12:131][871]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_SlotStructure_5' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_SlotStructure_5' is empty
+[2023.03.04-10.02.14:545][ 12]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_SlotStructure_9' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_SlotStructure_9' is empty
+[2023.03.04-10.02.15:564][ 69]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/ItemStructure21C19140453CE38C25738AA4E8E064F9.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/Items/ItemStructure.uasset'
+[2023.03.04-10.02.15:580][ 69]AssetCheck: New page: Asset Save: ItemStructure
+[2023.03.04-10.02.15:580][ 69]LogContentValidation: Display: Validating UserDefinedStruct /Game/FirstPerson/Character/Inventory/Items/ItemStructure.ItemStructure
+[2023.03.04-10.02.18:834][262]BlueprintLog: New page: Compile InventorySlot
+[2023.03.04-10.02.18:836][262]LogBlueprint: Error: [AssetLog] C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Content\FirstPerson\Character\Inventory\UI\InventorySlot.uasset: [Compiler] In use pin  Structure Item 2 58E286F04DB6631ED21EFD866A5CCCBD Thumbnail 15 862A5B7E45C0A4918FF547827F6FD89B  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.03.04-10.02.18:877][262]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2023.03.04-10.02.19:667][305]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventorySlot02F5E1034E64123DB903EB8F37D48A96.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/UI/InventorySlot.uasset'
+[2023.03.04-10.02.19:688][305]AssetCheck: New page: Asset Save: InventorySlot
+[2023.03.04-10.02.19:688][305]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPerson/Character/Inventory/UI/InventorySlot.InventorySlot
+[2023.03.04-10.02.27:401][751]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventorySlotE0DE98D440A3F2EBEA33F18CCB4F3A85.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/UI/InventorySlot.uasset'
+[2023.03.04-10.02.27:419][751]AssetCheck: New page: Asset Save: InventorySlot
+[2023.03.04-10.02.27:419][751]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPerson/Character/Inventory/UI/InventorySlot.InventorySlot
+[2023.03.04-10.02.27:841][777]BlueprintLog: New page: Compile InventorySlot
+[2023.03.04-10.02.27:897][777]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2023.03.04-10.02.30:263][917]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.03.04-10.02.30:263][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.04-10.02.30:272][917]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.03.04-10.02.30:272][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.04-10.02.33:824][124]BlueprintLog: New page: Compile Inventory
+[2023.03.04-10.02.33:868][124]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2023.03.04-10.02.36:358][266]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryAA88D2F54A722FCBECD0C79873DB2732.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/UI/Inventory.uasset'
+[2023.03.04-10.02.36:373][266]AssetCheck: New page: Asset Save: Inventory
+[2023.03.04-10.02.36:373][266]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPerson/Character/Inventory/UI/Inventory.Inventory
+[2023.03.04-10.02.37:614][339]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.03.04-10.02.37:615][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.04-10.02.37:623][339]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.03.04-10.02.37:623][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.04-10.02.54:597][343]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponent1048364A4640D2052A9A52AF89729C75.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-10.02.54:617][343]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-10.02.54:617][343]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-10.02.55:405][391]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-10.02.55:412][391]LogBlueprint: Error: [AssetLog] C:\Users\William\Documents\GitHub\Unreal-Creatorday-Inventory\ShopSystem\Content\FirstPerson\Character\Inventory\InventoryComponent.uasset: [Compiler] In use pin  Item Item 2 58E286F04DB6631ED21EFD866A5CCCBD Is Stackable 5 5872F5A9419B494EF08C88B211055E9A  no longer exists on node  Add Item . Please refresh node or break links to remove pin.
+[2023.03.04-10.02.55:453][391]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2023.03.04-10.03.07:269][ 83]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponent9163B013402F151CC82E80889E1EF78A.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-10.03.07:288][ 83]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-10.03.07:288][ 83]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-10.03.07:584][101]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-10.03.07:630][101]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2023.03.04-10.03.18:242][723]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponentF626EB4B4771483F1F6E10917C104C18.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-10.03.18:261][723]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-10.03.18:261][723]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-10.03.18:917][763]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-10.03.18:962][763]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2023.03.04-10.03.43:527][897]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponentB0F31CDE48DD748AD823E4A9A680291C.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-10.03.43:544][897]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-10.03.43:544][897]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-10.04.04:715][122]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponentBF620BAB463BB0726DF3399057877E95.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-10.04.04:732][122]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-10.04.04:732][122]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-10.04.17:770][900]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponent44981F584582E38AA579F78C16193F54.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-10.04.17:786][900]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-10.04.17:786][900]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-10.04.19:108][980]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-10.04.19:153][980]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2023.03.04-10.04.53:849][565]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponent902032CD4C2D2D7593AA65988CFF4DE0.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-10.04.53:867][565]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-10.04.53:867][565]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-10.04.54:424][599]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-10.04.54:468][599]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2023.03.04-10.05.20:275][728]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2023.03.04-10.05.20:276][728]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.036
+[2023.03.04-10.05.20:279][728]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Character/Inventory/SlotStructure] ([1] browsable assets)...
+[2023.03.04-10.05.20:280][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Character/Inventory/SlotStructure]
+[2023.03.04-10.05.20:283][728]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/SlotStructure_Auto1ECA85E444B653002F8224FAF63804AB9.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Autosaves/Game/FirstPerson/Character/Inventory/SlotStructure_Auto1.uasset'
+[2023.03.04-10.05.20:286][728]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Character/Inventory/Items/Item] ([2] browsable assets)...
+[2023.03.04-10.05.20:286][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Character/Inventory/Items/Item]
+[2023.03.04-10.05.20:297][728]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Item_Auto1C7B1D19B4B7E0751CFD9B6A14EC93B54.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/Autosaves/Game/FirstPerson/Character/Inventory/Items/Item_Auto1.uasset'
+[2023.03.04-10.05.20:301][728]LogFileHelpers: Auto-saving content packages took 0.024
+[2023.03.04-10.06.04:453][329]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-10.06.04:504][329]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2023.03.04-10.06.16:207][993]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponent2558EDF340B156FD36881C9933F0745F.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-10.06.16:224][993]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-10.06.16:224][993]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-10.06.39:059][932]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponentEF2CA7484B5745BA03F9EB93D72DC5DD.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-10.06.39:080][932]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-10.06.39:082][932]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-10.06.56:262][936]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponentB0C1705A495AD61E57FD3FA0F3722A3C.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-10.06.56:286][936]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-10.06.56:286][936]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-10.07.13:894][966]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponent08932A8E458954FECAD276B687FB0A8F.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-10.07.13:913][966]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-10.07.13:913][966]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-10.07.51:722][186]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponent7ACE6E324B1C2CC229333AAA544E3B16.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-10.07.51:739][186]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-10.07.51:739][186]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-10.07.52:512][233]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-10.07.52:565][233]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2023.03.04-10.08.52:786][462]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponent444B7B8D457C7670A5F3AA967B90E689.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-10.08.52:802][462]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-10.08.52:803][462]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-10.08.56:612][686]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponent6E6B95C94CBB2AE0B1D7DCBB504F0B94.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-10.08.56:628][686]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-10.08.56:628][686]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-10.08.57:324][727]BlueprintLog: New page: Compile InventoryComponent
+[2023.03.04-10.08.57:372][727]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2023.03.04-10.09.27:160][368]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_StructOperation:StructType: unresolved reference to 'UserDefinedStruct'"/Game/Arena/Inventory/SlotStructure.SlotStructure"''
+[2023.03.04-10.09.27:164][368]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_StructOperation:StructType: unresolved reference to 'UserDefinedStruct'"/Game/Arena/Inventory/SlotStructure.SlotStructure"''
+[2023.03.04-10.09.27:167][368]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_StructOperation:StructType: unresolved reference to 'UserDefinedStruct'"/Game/Arena/Inventory/Items/ItemStructure.ItemStructure"''
+[2023.03.04-10.09.28:606][368]LogSlate: Window 'Fix Self Context Function References' being destroyed
+[2023.03.04-10.10.03:378][380]LogSavePackage: Moving '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Saved/InventoryComponent48C281C94CDEB7BBDC418BBA92897E99.tmp' to '../../../../../../Users/William/Documents/GitHub/Unreal-Creatorday-Inventory/ShopSystem/Content/FirstPerson/Character/Inventory/InventoryComponent.uasset'
+[2023.03.04-10.10.03:396][380]AssetCheck: New page: Asset Save: InventoryComponent
+[2023.03.04-10.10.03:396][380]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Character/Inventory/InventoryComponent.InventoryComponent
+[2023.03.04-10.10.26:247][739]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.03.04-10.10.26:318][739]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.070 s
+[2023.03.04-10.10.26:318][739]LogOutputDevice: Error: === Handled ensure: ===
+[2023.03.04-10.10.26:318][739]LogOutputDevice: Error: 
+[2023.03.04-10.10.26:318][739]LogOutputDevice: Error: Ensure condition failed: Pins.Remove(NestedPin) == 1 [File:D:/Build/++UE4/Sync/Engine/Source/Editor/BlueprintGraph/Private/K2Node.cpp] [Line: 533]
+[2023.03.04-10.10.26:318][739]LogOutputDevice: Error: 
+[2023.03.04-10.10.26:318][739]LogOutputDevice: Error: Stack: 
+[2023.03.04-10.10.26:318][739]LogOutputDevice: Error: [Callstack] 0x00007ff94db048d9 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2023.03.04-10.10.26:318][739]LogOutputDevice: Error: [Callstack] 0x00007ff94d9778ee UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2023.03.04-10.10.26:319][739]LogOutputDevice: Error: [Callstack] 0x00007ff94d9a845a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2023.03.04-10.10.26:319][739]LogOutputDevice: Error: [Callstack] 0x00007ff94ac525ba UE4Editor-Engine.dll!UnknownFunction []
+[2023.03.04-10.10.26:319][739]LogOutputDevice: Error: [Callstack] 0x00007ff94d9677fa UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2023.03.04-10.10.26:319][739]LogOutputDevice: Error: [Callstack] 0x00007ff9484f050e UE4Editor-GraphEditor.dll!UnknownFunction []
+[2023.03.04-10.10.26:319][739]LogOutputDevice: Error: [Callstack] 0x00007ff94858693f UE4Editor-GraphEditor.dll!UnknownFunction []
+[2023.03.04-10.10.26:319][739]LogOutputDevice: Error: [Callstack] 0x00007ff96564089f UE4Editor-Slate.dll!UnknownFunction []
+[2023.03.04-10.10.26:319][739]LogOutputDevice: Error: [Callstack] 0x00007ff965623581 UE4Editor-Slate.dll!UnknownFunction []
+[2023.03.04-10.10.26:319][739]LogOutputDevice: Error: [Callstack] 0x00007ff96569e360 UE4Editor-Slate.dll!UnknownFunction []
+[2023.03.04-10.10.26:319][739]LogOutputDevice: Error: [Callstack] 0x00007ff965687097 UE4Editor-Slate.dll!UnknownFunction []
+[2023.03.04-10.10.26:319][739]LogOutputDevice: Error: [Callstack] 0x00007ff965679b62 UE4Editor-Slate.dll!UnknownFunction []
+[2023.03.04-10.10.26:319][739]LogOutputDevice: Error: [Callstack] 0x00007ff96b00c025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.03.04-10.10.26:319][739]LogOutputDevice: Error: [Callstack] 0x00007ff96aff92b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.03.04-10.10.26:319][739]LogOutputDevice: Error: [Callstack] 0x00007ff96b00e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.03.04-10.10.26:319][739]LogOutputDevice: Error: [Callstack] 0x00007ff96aff4410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.03.04-10.10.26:319][739]LogOutputDevice: Error: [Callstack] 0x00007ff9b4be8281 USER32.dll!UnknownFunction []
+[2023.03.04-10.10.26:319][739]LogOutputDevice: Error: [Callstack] 0x00007ff9b4be7d41 USER32.dll!UnknownFunction []
+[2023.03.04-10.10.26:319][739]LogOutputDevice: Error: [Callstack] 0x00007ff96b00fcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.03.04-10.10.26:319][739]LogOutputDevice: Error: [Callstack] 0x00007ff739157621 UE4Editor.exe!UnknownFunction []
+[2023.03.04-10.10.26:319][739]LogOutputDevice: Error: [Callstack] 0x00007ff739170fcc UE4Editor.exe!UnknownFunction []
+[2023.03.04-10.10.26:319][739]LogOutputDevice: Error: [Callstack] 0x00007ff7391710ba UE4Editor.exe!UnknownFunction []
+[2023.03.04-10.10.26:319][739]LogOutputDevice: Error: [Callstack] 0x00007ff7391740dd UE4Editor.exe!UnknownFunction []
+[2023.03.04-10.10.26:319][739]LogOutputDevice: Error: [Callstack] 0x00007ff739185984 UE4Editor.exe!UnknownFunction []
+[2023.03.04-10.10.26:319][739]LogOutputDevice: Error: [Callstack] 0x00007ff73918853a UE4Editor.exe!UnknownFunction []
+[2023.03.04-10.10.26:319][739]LogOutputDevice: Error: [Callstack] 0x00007ff9b37926bd KERNEL32.DLL!UnknownFunction []
+[2023.03.04-10.10.26:319][739]LogOutputDevice: Error: [Callstack] 0x00007ff9b572dfb8 ntdll.dll!UnknownFunction []
+[2023.03.04-10.10.26:319][739]LogOutputDevice: Error: 

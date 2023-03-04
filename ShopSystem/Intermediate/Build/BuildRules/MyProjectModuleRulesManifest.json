@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\William\\Documents\\GitHub\\Unreal-Creatorday-Inventory\\ShopSystem\\Source\\MyProject\\MyProject.Build.cs",
+		"C:\\Users\\William\\Documents\\GitHub\\Unreal-Creatorday-Inventory\\ShopSystem\\Source\\MyProject.Target.cs",
+		"C:\\Users\\William\\Documents\\GitHub\\Unreal-Creatorday-Inventory\\ShopSystem\\Source\\MyProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
